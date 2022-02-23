@@ -1,0 +1,251 @@
+D:\Project\Security_Home_2\Security_Home_2\bin\Security_Home_2.dll.config
+D:\Project\Security_Home_2\Security_Home_2\bin\Security_Home_2.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\Security_Home_2.pdb
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\csc.exe
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\csc.exe.config
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\csc.rsp
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\csi.exe
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\csi.exe.config
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\csi.rsp
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.AppContext.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Console.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.IO.Compression.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Net.Http.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Net.Sockets.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.ValueTuple.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Xml.XPath.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\vbc.exe
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\vbc.exe.config
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\vbc.rsp
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\VBCSCompiler.exe
+D:\Project\Security_Home_2\Security_Home_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Security_Home_2\Security_Home_2\bin\Antlr3.Runtime.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\Newtonsoft.Json.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Net.Http.Formatting.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Helpers.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Http.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Http.WebHost.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Mvc.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Optimization.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Razor.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.WebPages.Deployment.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.WebPages.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.WebPages.Razor.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\WebGrease.dll
+D:\Project\Security_Home_2\Security_Home_2\bin\Newtonsoft.Json.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Net.Http.Formatting.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Helpers.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Http.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Http.WebHost.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Mvc.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Optimization.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.Razor.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.WebPages.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.WebPages.Deployment.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\System.Web.WebPages.Razor.xml
+D:\Project\Security_Home_2\Security_Home_2\bin\Antlr3.Runtime.pdb
+D:\Project\Security_Home_2\Security_Home_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Security_Home_2\Security_Home_2\obj\Debug\Security_Home_2.csproj.AssemblyReference.cache
+D:\Project\Security_Home_2\Security_Home_2\obj\Debug\Security_Home_2.csproj.CoreCompileInputs.cache
+D:\Project\Security_Home_2\Security_Home_2\obj\Debug\Security_Home_2.csproj.CopyComplete
+D:\Project\Security_Home_2\Security_Home_2\obj\Debug\Security_Home_2.dll
+D:\Project\Security_Home_2\Security_Home_2\obj\Debug\Security_Home_2.pdb
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\obj\Debug\Security_Home_2.csproj.AssemblyReference.cache
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\obj\Debug\Security_Home_2.csproj.CoreCompileInputs.cache
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\obj\Debug\Security_Home_2.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\obj\Debug\Security_Home_2.pdb
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Security_Home_2.dll.config
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Security_Home_2.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Security_Home_2.pdb
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\csc.exe
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\csc.exe.config
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\csc.rsp
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\csi.exe
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\csi.exe.config
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\csi.rsp
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.AppContext.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Console.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.IO.Compression.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.IO.FileSystem.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Net.Http.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Net.Sockets.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.ValueTuple.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Xml.XPath.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\vbc.exe
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\vbc.exe.config
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\vbc.rsp
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\VBCSCompiler.exe
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Antlr3.Runtime.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Newtonsoft.Json.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Net.Http.Formatting.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Helpers.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Http.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Http.WebHost.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Mvc.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Optimization.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Razor.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.WebPages.Deployment.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.WebPages.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.WebPages.Razor.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\WebGrease.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Newtonsoft.Json.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Net.Http.Formatting.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Helpers.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Http.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Http.WebHost.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Mvc.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Optimization.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.Razor.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.WebPages.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.WebPages.Deployment.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Web.WebPages.Razor.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Antlr3.Runtime.pdb
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\obj\Debug\Security_Home_2.csproj.CopyComplete
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Routing.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Options.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Primitives.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Net.Http.Headers.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Buffers.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.ComponentModel.Annotations.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Memory.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Numerics.Vectors.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Text.Encodings.Web.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Threading.Tasks.Extensions.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Routing.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Options.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Extensions.Primitives.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Net.Http.Headers.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Buffers.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Memory.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Numerics.Vectors.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Text.Encodings.Web.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Threading.Tasks.Extensions.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\websocket-sharp.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Owin.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Owin.Security.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.WebSockets.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Owin.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Owin.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\Microsoft.Owin.Security.xml
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\System.Data.SqlClient.dll
+D:\Github_Security_Home\Security_Home_2 --ASP.net\Security_Home_2\bin\TableDependency.SqlClient.dll
