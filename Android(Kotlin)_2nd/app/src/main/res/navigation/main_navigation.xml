@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/helloPage">
+    <fragment
+        android:id="@+id/helloPage"
+        android:name="com.example.securtiy_home_2.HelloPage"
+        android:label="fragment_hello_page"
+        tools:layout="@layout/fragment_hello_page" >
+        <action
+            android:id="@+id/action_helloPage_to_loginPage"
+            app:destination="@id/loginPage" />
+        <action
+            android:id="@+id/action_helloPage_to_newDevicePage"
+            app:destination="@id/newDevicePage" />
+        <action
+            android:id="@+id/action_helloPage_to_biometricPage"
+            app:destination="@id/biometricPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginPage"
+        android:name="com.example.securtiy_home_2.LoginPage"
+        android:label="fragment_login_page"
+        tools:layout="@layout/fragment_login_page" >
+        <action
+            android:id="@+id/action_loginPage_to_newDevicePage"
+            app:destination="@id/newDevicePage" />
+        <action
+            android:id="@+id/action_loginPage_to_biometricPage"
+            app:destination="@id/biometricPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainPage"
+        android:name="com.example.securtiy_home_2.MainPage"
+        android:label="fragment_main__page"
+        tools:layout="@layout/fragment_main_page">
+        <action
+            android:id="@+id/action_main_Page_to_controlPage"
+            app:destination="@id/controlPage" />
+        <action
+            android:id="@+id/action_mainPage_to_profilePage"
+            app:destination="@id/profilePage"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/newDevicePage"
+        android:name="com.example.securtiy_home_2.newDevicePage"
+        android:label="fragment_new_device_page"
+        tools:layout="@layout/fragment_new_device_page" >
+        <action
+            android:id="@+id/action_newDevicePage_to_biometricPage"
+            app:destination="@id/biometricPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/controlPage"
+        android:name="com.example.securtiy_home_2.ControlPage"
+        android:label="fragment_control_page"
+        tools:layout="@layout/fragment_control_page" >
+        <action
+            android:id="@+id/action_controlPage_to_setupHomeDevicePage"
+            app:destination="@id/setupHomeDevicePage" />
+    </fragment>
+    <fragment
+        android:id="@+id/biometricPage"
+        android:name="com.example.securtiy_home_2.BiometricPage"
+        android:label="fragment_biometric_page"
+        tools:layout="@layout/fragment_biometric_page" >
+        <action
+            android:id="@+id/action_biometricPage_to_main_Page"
+            app:destination="@id/mainPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/setupHomeDevicePage"
+        android:name="com.example.securtiy_home_2.SetupHomeDevicePage"
+        android:label="fragment_setup_home_device_page"
+        tools:layout="@layout/fragment_setup_home_device_page" />
+    <fragment
+        android:id="@+id/profilePage"
+        android:name="com.example.securtiy_home_2.ProfilePage"
+        android:label="fragment_profile_page"
+        tools:layout="@layout/fragment_profile_page" >
+        <action
+            android:id="@+id/action_profilePage_to_settingDetailPge"
+            app:destination="@id/settingDetailPge"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingDetailPge"
+        android:name="com.example.securtiy_home_2.SettingDetailPge"
+        android:label="fragment_setting_detail_pge"
+        tools:layout="@layout/fragment_setting_detail_pge" />
+</navigation>

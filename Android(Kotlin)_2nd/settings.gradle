@@ -1,0 +1,2 @@
+rootProject.name = "Securtiy-home-2"
+include ':app'

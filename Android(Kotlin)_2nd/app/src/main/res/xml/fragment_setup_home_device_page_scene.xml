@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/discoverDevice"
+        motion:constraintSetStart="@id/noWifi"
+        motion:duration="300"
+        motion:motionInterpolator="cubic(0.6,0,0.4,1)">
+       <KeyFrameSet>
+           <KeyAttribute
+               motion:motionTarget="@+id/title3_tv"
+               motion:framePosition="50"
+               android:alpha="0" />
+           <KeyAttribute
+               motion:motionTarget="@+id/subTitle2_tv"
+               motion:framePosition="50"
+               android:alpha="0" />
+       </KeyFrameSet>
+    </Transition>
+
+    <ConstraintSet android:id="@+id/noWifi">
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/discoverDevice">
+        <Constraint
+            motion:layout_editor_absoluteY="682dp"
+            android:layout_height="50dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="100dp"
+            android:id="@+id/turn_on_btn"
+            motion:layout_constraintTop_toBottomOf="parent"
+            android:alpha="0" />
+        <Constraint
+            motion:layout_editor_absoluteY="682dp"
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/setting_tv"
+            motion:layout_constraintTop_toBottomOf="parent"
+            android:alpha="0"  />
+        <Constraint
+            android:id="@+id/cancel_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            motion:layout_constraintBottom_toTopOf="@id/setting_tv"
+            android:alpha="1"
+            motion:layout_constraintStart_toStartOf="parent" />
+    </ConstraintSet>
+    <ConstraintSet android:id="@+id/deviceFound" >
+        <Constraint
+            android:id="@+id/setting_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:alpha="0"
+            motion:layout_editor_absoluteY="682dp"
+            motion:layout_constraintTop_toBottomOf="@+id/cancel_tv" />
+        <Constraint
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/cancel_tv"
+            motion:layout_constraintBottom_toBottomOf="parent" />
+    </ConstraintSet>
+    <Transition
+        motion:constraintSetStart="@+id/discoverDevice"
+        motion:constraintSetEnd="@+id/deviceFound" >
+        <KeyFrameSet >
+            <KeyAttribute
+                motion:motionTarget="@+id/title3_tv"
+                motion:framePosition="50"
+                android:alpha="0" />
+            <KeyAttribute
+                motion:motionTarget="@+id/subTitle2_tv"
+                motion:framePosition="50"
+                android:alpha="0" />
+        </KeyFrameSet>
+    </Transition>
+    <ConstraintSet android:id="@+id/setDeviceWifi" >
+        <Constraint
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintHorizontal_bias="0.5"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/lottie_layer_name"
+            android:layout_marginBottom="150dp" />
+        <Constraint
+            android:id="@+id/ssid_tb"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="12dp"
+            motion:layout_constraintTop_toBottomOf="@+id/lottie_layer_name"
+            android:alpha="1"
+            android:layout_marginStart="12dp"
+            motion:layout_constraintHorizontal_bias="0.5"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="12dp"
+            android:visibility="visible" />
+        <Constraint
+            android:id="@+id/password_tb"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="12dp"
+            motion:layout_constraintTop_toBottomOf="@+id/ssid_tb"
+            android:alpha="1"
+            android:layout_marginStart="12dp"
+            motion:layout_constraintHorizontal_bias="0.5"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="12dp"
+            android:visibility="visible" />
+        <Constraint
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/cancel_tv"
+            motion:layout_constraintBottom_toBottomOf="parent" />
+        <Constraint
+            motion:layout_editor_absoluteY="682dp"
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/setting_tv"
+            motion:layout_constraintTop_toBottomOf="@+id/cancel_tv"
+            android:alpha="0" />
+    </ConstraintSet>
+    <Transition
+        motion:constraintSetStart="@+id/deviceFound"
+        motion:constraintSetEnd="@+id/setDeviceWifi" >
+        <KeyFrameSet >
+            <KeyAttribute
+                motion:motionTarget="@+id/title3_tv"
+                motion:framePosition="50"
+                android:alpha="0" />
+            <KeyAttribute
+                motion:motionTarget="@+id/subTitle2_tv"
+                motion:framePosition="50"
+                android:alpha="0" />
+        </KeyFrameSet>
+    </Transition>
+    <Transition
+        motion:constraintSetStart="@+id/deviceFound"
+        motion:constraintSetEnd="@+id/noWifi" />
+    <Transition
+        motion:constraintSetStart="@+id/setDeviceWifi"
+        motion:constraintSetEnd="@+id/noWifi" />
+    <ConstraintSet android:id="@+id/DeviceConnectWifi" >
+        <Constraint
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/cancel_tv"
+            motion:layout_constraintBottom_toBottomOf="parent" />
+        <Constraint
+            motion:layout_editor_absoluteY="682dp"
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/setting_tv"
+            motion:layout_constraintTop_toBottomOf="@+id/cancel_tv" />
+        <Constraint
+            android:layout_height="50dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="100dp"
+            android:id="@+id/turn_on_btn"
+            motion:layout_constraintTop_toBottomOf="parent" />
+    </ConstraintSet>
+    <Transition
+        motion:constraintSetStart="@+id/setDeviceWifi"
+        motion:constraintSetEnd="@+id/DeviceConnectWifi" >
+        <KeyFrameSet >
+            <KeyAttribute
+                motion:motionTarget="@+id/title3_tv"
+                motion:framePosition="50"
+                android:alpha="0" />
+            <KeyAttribute
+                motion:motionTarget="@+id/subTitle2_tv"
+                motion:framePosition="50"
+                android:alpha="0" />
+        </KeyFrameSet>
+    </Transition>
+</MotionScene>
